@@ -9,14 +9,14 @@
     "properties": {},
     "children": [
       {
-        "activated": false,
+        "activated": true,
         "metadata": {
           "label": ""
         },
         "properties": {},
         "children": [
           {
-            "activated": true,
+            "activated": false,
             "metadata": {
               "label": ""
             },
