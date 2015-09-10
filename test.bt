@@ -13,7 +13,10 @@
         "metadata": {
           "label": ""
         },
-        "properties": {},
+        "properties": {
+          "statusCondition": "failsIfAnyFails",
+          "retryPolicy": "propagateToRunning"
+        },
         "children": [
           {
             "activated": true,
@@ -34,6 +37,16 @@
             "metadata": {
               "label": ""
             },
+            "properties": {},
+            "children": [],
+            "id": "92b27570-db10-4a93-85ac-ccf9e45700e5",
+            "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
             "properties": {
               "name": "",
               "inputParams": [],
@@ -44,8 +57,8 @@
             "type": "action"
           }
         ],
-        "id": "92b27570-db10-4a93-85ac-ccf9e45700e5",
-        "type": "sequence"
+        "id": "d06e9e11-d2f1-4c2e-a5ec-8f4fef9fb294",
+        "type": "parallel"
       }
     ],
     "id": "908e8603-2aad-44ed-aadb-ed5b8b1e9403"
