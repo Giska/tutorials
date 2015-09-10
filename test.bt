@@ -1,10 +1,53 @@
 [
   {
-    "version": "0.1.2"
+    "version": "1.2.0"
   },
   {
-    "id": "908e8603-2aad-44ed-aadb-ed5b8b1e9403",
-    "name": "38e11c3f-366f-478e-83ab-ab6e9c8fa6ee",
-    "children": []
+    "metadata": {
+      "label": "38e11c3f-366f-478e-83ab-ab6e9c8fa6ee"
+    },
+    "properties": {},
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "",
+              "inputParams": [],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "435dbb3c-623b-469e-994b-56c8d553df08",
+            "type": "action"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "",
+              "inputParams": [],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "04cbc54e-b0b4-426a-808f-d55b43666ac1",
+            "type": "action"
+          }
+        ],
+        "id": "92b27570-db10-4a93-85ac-ccf9e45700e5",
+        "type": "sequence"
+      }
+    ],
+    "id": "908e8603-2aad-44ed-aadb-ed5b8b1e9403"
   }
 ]
