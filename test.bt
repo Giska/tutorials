@@ -9,7 +9,7 @@
     "properties": {},
     "children": [
       {
-        "activated": false,
+        "activated": true,
         "metadata": {
           "label": ""
         },
@@ -36,7 +36,7 @@
             "type": "condition"
           },
           {
-            "activated": false,
+            "activated": true,
             "metadata": {
               "label": ""
             },
