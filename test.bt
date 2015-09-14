@@ -9,12 +9,32 @@
     "properties": {},
     "children": [
       {
-        "activated": false,
+        "activated": true,
         "metadata": {
           "label": ""
         },
         "properties": {},
         "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "op1": {
+                "type": "boolean",
+                "value": "true"
+              },
+              "op2": {
+                "type": "boolean",
+                "value": "true"
+              },
+              "op": "=="
+            },
+            "children": [],
+            "id": "aa8b6f80-4e06-4597-91ca-908bd09b7f69",
+            "type": "condition"
+          },
           {
             "activated": false,
             "metadata": {
