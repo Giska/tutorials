@@ -8,7 +8,18 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [],
+        "id": "2dfc3bdd-b41f-4ebf-990f-b34f4f71afa1",
+        "type": "sequence"
+      }
+    ],
     "id": "d2dc813b-e112-4dbb-a709-c40f540b6ba5"
   }
 ]
