@@ -14,6 +14,19 @@
         "metadata": {
           "label": ""
         },
+        "properties": {
+          "statusCondition": "failsIfAnyFails",
+          "retryPolicy": "propagateToRunning"
+        },
+        "children": [],
+        "id": "6c6e3ac4-e60b-4f88-b8b3-4fc13935f89f",
+        "type": "parallel"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
         "properties": {},
         "children": [],
         "id": "1f27fbed-51bf-462a-94e2-80d48558e9e7",
