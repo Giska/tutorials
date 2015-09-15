@@ -14,6 +14,55 @@
           "label": ""
         },
         "properties": {
+          "active": "false"
+        },
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "op1": {
+                "type": "boolean",
+                "value": "false"
+              },
+              "op2": {
+                "type": "boolean",
+                "value": "true"
+              },
+              "op": "=="
+            },
+            "children": [],
+            "id": "5e055b58-d85b-4f2f-8aae-9bcd8b8bbeb5",
+            "type": "until"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "behavior": {
+                "type": "uriPath",
+                "value": ""
+              },
+              "inputParams": []
+            },
+            "children": [],
+            "id": "f1132c80-fed4-4b96-bbfa-1abba6664fda",
+            "type": "embedded"
+          }
+        ],
+        "id": "321ece71-d8a5-442a-affa-9de727fc0fcb",
+        "type": "priority"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "op1": {
             "type": "boolean",
             "value": "true"
@@ -24,57 +73,7 @@
           },
           "op": "=="
         },
-        "children": [
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "active": "false"
-            },
-            "children": [
-              {
-                "activated": true,
-                "metadata": {
-                  "label": ""
-                },
-                "properties": {
-                  "op1": {
-                    "type": "boolean",
-                    "value": "false"
-                  },
-                  "op2": {
-                    "type": "boolean",
-                    "value": "true"
-                  },
-                  "op": "=="
-                },
-                "children": [],
-                "id": "5e055b58-d85b-4f2f-8aae-9bcd8b8bbeb5",
-                "type": "until"
-              },
-              {
-                "activated": true,
-                "metadata": {
-                  "label": ""
-                },
-                "properties": {
-                  "behavior": {
-                    "type": "uriPath",
-                    "value": ""
-                  },
-                  "inputParams": []
-                },
-                "children": [],
-                "id": "f1132c80-fed4-4b96-bbfa-1abba6664fda",
-                "type": "embedded"
-              }
-            ],
-            "id": "321ece71-d8a5-442a-affa-9de727fc0fcb",
-            "type": "priority"
-          }
-        ],
+        "children": [],
         "id": "006fe0f9-bd47-4bea-b782-3f67ac45a59c",
         "type": "condition"
       },
