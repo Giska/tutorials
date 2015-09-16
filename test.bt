@@ -18,6 +18,16 @@
           {
             "activated": true,
             "metadata": {
+              "label": "ffff"
+            },
+            "properties": {},
+            "children": [],
+            "id": "b42f4341-5807-4ee9-845e-a60359de4869",
+            "type": "random"
+          },
+          {
+            "activated": true,
+            "metadata": {
               "label": ""
             },
             "properties": {
