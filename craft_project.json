@@ -6,7 +6,7 @@
     "homeUrl": "deded",
     "description": "",
     "nodeLibraries": {
-      "google": true
+      "google": false
     }
   }
 ]
