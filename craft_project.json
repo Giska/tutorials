@@ -4,6 +4,9 @@
   },
   {
     "homeUrl": "deded",
-    "description": ""
+    "description": "",
+    "nodeLibraries": {
+      "google": true
+    }
   }
 ]
