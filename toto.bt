@@ -16,11 +16,11 @@
         },
         "properties": {
           "name": "",
-          "inputParams": {},
-          "outputParams": {}
+          "inputParams": [],
+          "outputParams": []
         },
         "children": [],
-        "id": "fa134af7-aed0-4422-a9d4-e7bfa5126780",
+        "id": "f827bb5d-79c1-45b3-90c6-d955aed4598e",
         "type": "action"
       }
     ],
