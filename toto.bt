@@ -36,8 +36,14 @@
         },
         "properties": {
           "name": "tests",
-          "inputParams": {},
-          "outputParams": {}
+          "inputParams": [
+            {
+              "key": "deded",
+              "type": "behaviorParams",
+              "value": "dededed"
+            }
+          ],
+          "outputParams": []
         },
         "children": [],
         "id": "91dd50ee-49ab-4919-81cf-4a28e5d369df",
@@ -50,8 +56,8 @@
         },
         "properties": {
           "name": "addEvent",
-          "inputParams": {},
-          "outputParams": {}
+          "inputParams": [],
+          "outputParams": []
         },
         "children": [],
         "id": "fc552e95-cc4b-48fa-83c0-fdc90d8d6d6a",
