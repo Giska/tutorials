@@ -56,21 +56,6 @@
         "children": [],
         "id": "f827bb5d-79c1-45b3-90c6-d955aed4598e",
         "type": "action"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "subType": "addEvent",
-          "label": ""
-        },
-        "properties": {
-          "name": "",
-          "inputParams": {},
-          "outputParams": {}
-        },
-        "children": [],
-        "id": "7c62e411-5442-4629-ba20-9f05f084fe66",
-        "type": "action"
       }
     ],
     "id": "22817a92-489f-4b7d-bba7-f6747303ca6b"
