@@ -15,9 +15,9 @@
           "label": ""
         },
         "properties": {
-          "name": "",
-          "inputParams": [],
-          "outputParams": []
+          "name": "addEvent",
+          "inputParams": {},
+          "outputParams": {}
         },
         "children": [],
         "id": "f827bb5d-79c1-45b3-90c6-d955aed4598e",
