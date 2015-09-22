@@ -42,20 +42,6 @@
         "children": [],
         "id": "91dd50ee-49ab-4919-81cf-4a28e5d369df",
         "type": "action"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "name": "addEvent",
-          "inputParams": {},
-          "outputParams": {}
-        },
-        "children": [],
-        "id": "f827bb5d-79c1-45b3-90c6-d955aed4598e",
-        "type": "action"
       }
     ],
     "id": "22817a92-489f-4b7d-bba7-f6747303ca6b"
