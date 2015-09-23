@@ -66,6 +66,16 @@
               "key": "summary",
               "type": "string",
               "value": "just a cool event :D"
+            },
+            {
+              "key": "location",
+              "type": "string",
+              "value": "in just a cool location"
+            },
+            {
+              "key": "description",
+              "type": "string",
+              "value": "with a cool description"
             }
           ],
           "outputParams": []
