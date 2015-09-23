@@ -60,7 +60,7 @@
             {
               "key": "calendarId",
               "type": "string",
-              "value": "dededzz"
+              "value": "cool id"
             },
             {
               "key": "summary",
@@ -78,7 +78,13 @@
               "value": "with a cool description"
             }
           ],
-          "outputParams": []
+          "outputParams": [
+            {
+              "key": "destination",
+              "type": "entityKnowledge",
+              "value": "cool destination to store my cool event"
+            }
+          ]
         },
         "children": [],
         "id": "fc552e95-cc4b-48fa-83c0-fdc90d8d6d6a",
