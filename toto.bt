@@ -38,9 +38,9 @@
           "name": "tests",
           "inputParams": [
             {
-              "key": "deded",
+              "key": "dededcrrr",
               "type": "behaviorParams",
-              "value": "dededed"
+              "value": "aaaaa"
             }
           ],
           "outputParams": []
