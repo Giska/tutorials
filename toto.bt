@@ -61,6 +61,11 @@
               "key": "calendarId",
               "type": "string",
               "value": "dededzz"
+            },
+            {
+              "key": "summary",
+              "type": "string",
+              "value": "just a cool event :D"
             }
           ],
           "outputParams": []
