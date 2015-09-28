@@ -35,6 +35,46 @@
           "label": ""
         },
         "properties": {
+          "op1": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op2": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op": "=="
+        },
+        "children": [],
+        "id": "1cb35713-8287-407e-acc0-34e4d7278b8b",
+        "type": "condition"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "op1": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op2": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op": "=="
+        },
+        "children": [],
+        "id": "70a5d0d9-b100-42cf-ac93-bfcf308ef999",
+        "type": "condition"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "name": "tests",
           "inputParams": [
             {
