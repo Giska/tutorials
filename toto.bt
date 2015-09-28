@@ -35,20 +35,6 @@
           "label": ""
         },
         "properties": {
-          "name": "",
-          "inputParams": [],
-          "outputParams": []
-        },
-        "children": [],
-        "id": "edc7d4e1-db06-401f-a2ca-696bd6e64a57",
-        "type": "action"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
           "name": "tests",
           "inputParams": [
             {
