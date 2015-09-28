@@ -35,26 +35,6 @@
           "label": ""
         },
         "properties": {
-          "op1": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op2": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op": "=="
-        },
-        "children": [],
-        "id": "70a5d0d9-b100-42cf-ac93-bfcf308ef999",
-        "type": "condition"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
           "name": "tests",
           "inputParams": [
             {
