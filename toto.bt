@@ -25,22 +25,7 @@
           },
           "op": "=="
         },
-        "children": [
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "name": "",
-              "inputParams": [],
-              "outputParams": []
-            },
-            "children": [],
-            "id": "3f0e8a65-2761-4830-9038-2534d95841a8",
-            "type": "action"
-          }
-        ],
+        "children": [],
         "id": "fe24de1b-0ba5-464d-9e82-d0af33c9f922",
         "type": "condition"
       },
