@@ -35,22 +35,6 @@
           "label": ""
         },
         "properties": {
-          "destination": "",
-          "op": {
-            "type": "string",
-            "value": ""
-          }
-        },
-        "children": [],
-        "id": "2e721c2f-5f9a-43cf-af31-67a9946fe364",
-        "type": "set"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
           "name": "tests",
           "inputParams": [
             {
