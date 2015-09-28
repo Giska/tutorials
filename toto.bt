@@ -35,6 +35,22 @@
           "label": ""
         },
         "properties": {
+          "destination": "",
+          "op": {
+            "type": "string",
+            "value": ""
+          }
+        },
+        "children": [],
+        "id": "09547edf-1d22-4d32-84e0-1b108d2d125e",
+        "type": "set"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "name": "tests",
           "inputParams": [
             {
