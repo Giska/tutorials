@@ -46,26 +46,6 @@
           "op": "=="
         },
         "children": [],
-        "id": "e89b51b2-771a-4892-a387-dfd1b7317bf5",
-        "type": "condition"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "op1": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op2": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op": "=="
-        },
-        "children": [],
         "id": "70a5d0d9-b100-42cf-ac93-bfcf308ef999",
         "type": "condition"
       },
