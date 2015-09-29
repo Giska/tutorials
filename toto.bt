@@ -56,35 +56,8 @@
         },
         "properties": {
           "name": "addEvent",
-          "inputParams": [
-            {
-              "key": "calendarId",
-              "type": "string",
-              "value": "cool id"
-            },
-            {
-              "key": "summary",
-              "type": "string",
-              "value": "just a cool event :D"
-            },
-            {
-              "key": "location",
-              "type": "string",
-              "value": "in just a cool location"
-            },
-            {
-              "key": "description",
-              "type": "string",
-              "value": "with a cool description"
-            }
-          ],
-          "outputParams": [
-            {
-              "key": "destination",
-              "type": "entityKnowledge",
-              "value": "cool destination to store my cool event"
-            }
-          ]
+          "inputParams": [],
+          "outputParams": []
         },
         "children": [],
         "id": "fc552e95-cc4b-48fa-83c0-fdc90d8d6d6a",
