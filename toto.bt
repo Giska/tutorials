@@ -75,7 +75,7 @@
             {
               "key": "calendarId",
               "type": "string",
-              "value": "fraze"
+              "value": "primary"
             },
             {
               "key": "startingDateTime.date.year",
