@@ -136,6 +136,26 @@
               "key": "startingDate.time.second",
               "type": "integer",
               "value": "0"
+            },
+            {
+              "key": "startingDate.date.year",
+              "type": "integer",
+              "value": "0"
+            },
+            {
+              "key": "startingDate.date.year",
+              "type": "integer",
+              "value": "8"
+            },
+            {
+              "key": "startingDate.date.year",
+              "type": "integer",
+              "value": "0"
+            },
+            {
+              "key": "duration",
+              "type": "integer",
+              "value": "3600"
             }
           ],
           "outputParams": []
