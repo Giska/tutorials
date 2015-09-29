@@ -56,7 +56,33 @@
         },
         "properties": {
           "name": "addEvent",
-          "inputParams": [],
+          "inputParams": [
+            {
+              "key": "startingDateTime.date.month",
+              "type": "integer",
+              "value": "589"
+            },
+            {
+              "key": "startingDateTime.date.day",
+              "type": "integer",
+              "value": "2"
+            },
+            {
+              "key": "startingDateTime.date.year",
+              "type": "integer",
+              "value": "2018"
+            },
+            {
+              "key": "calendarId",
+              "type": "string",
+              "value": "primary"
+            },
+            {
+              "key": "duration",
+              "type": "integer",
+              "value": "3600"
+            }
+          ],
           "outputParams": []
         },
         "children": [],
