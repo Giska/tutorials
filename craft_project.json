@@ -6,7 +6,7 @@
     "homeUrl": "myHomeUrl.com",
     "description": "description de stanley Kubik avec markdown **cool**",
     "actionLibraries": {
-      "google": true
+      "google": false
     }
   }
 ]
