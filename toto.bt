@@ -68,11 +68,6 @@
               "value": "2"
             },
             {
-              "key": "startingDateTime.date.year",
-              "type": "integer",
-              "value": "2018"
-            },
-            {
               "key": "duration",
               "type": "integer",
               "value": "3600"
@@ -81,6 +76,11 @@
               "key": "calendarId",
               "type": "string",
               "value": "fraze"
+            },
+            {
+              "key": "startingDateTime.date.year",
+              "type": "integer",
+              "value": "8006"
             }
           ],
           "outputParams": []
