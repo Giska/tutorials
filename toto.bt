@@ -59,7 +59,7 @@
           "inputParams": [
             {
               "key": "calendarId",
-              "type": "string",
+              "type": "entityKnowledge",
               "value": ""
             }
           ],
