@@ -15,19 +15,13 @@
           "label": ""
         },
         "properties": {
-          "op1": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op2": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op": "=="
+          "name": "addEvent",
+          "inputParams": [],
+          "outputParams": []
         },
         "children": [],
-        "id": "e72ca773-61e0-48dd-99f3-1c01af23b439",
-        "type": "condition"
+        "id": "1665743f-4171-40ab-ad0e-7421e2a1d43c",
+        "type": "action"
       }
     ],
     "id": "06033687-9981-43d1-89b4-8351c6e51d05"
