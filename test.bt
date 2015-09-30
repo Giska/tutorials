@@ -16,7 +16,13 @@
         },
         "properties": {
           "name": "addEvent",
-          "inputParams": [],
+          "inputParams": [
+            {
+              "key": "description",
+              "type": "string",
+              "value": "bfssdggbc"
+            }
+          ],
           "outputParams": []
         },
         "children": [],
