@@ -101,9 +101,35 @@
                       "key": "location",
                       "type": "string",
                       "value": "dedd"
+                    },
+                    {
+                      "key": "userId",
+                      "type": "string",
+                      "value": "dede"
+                    },
+                    {
+                      "key": "calendarId",
+                      "type": "string",
+                      "value": "dededcdcdcd"
+                    },
+                    {
+                      "key": "summary",
+                      "type": "string",
+                      "value": "dvrbbrbrb"
+                    },
+                    {
+                      "key": "timeZone",
+                      "type": "string",
+                      "value": "vrrffrf"
                     }
                   ],
-                  "outputParams": []
+                  "outputParams": [
+                    {
+                      "key": "destination",
+                      "type": "entityKnowledge",
+                      "value": "deded"
+                    }
+                  ]
                 },
                 "children": [],
                 "id": "17ebace3-a35f-4336-89db-903be32e8fc0",
