@@ -101,6 +101,11 @@
                       "key": "location",
                       "type": "string",
                       "value": "dedd"
+                    },
+                    {
+                      "key": "allDay",
+                      "type": "boolean",
+                      "value": "true"
                     }
                   ],
                   "outputParams": []
