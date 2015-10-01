@@ -91,6 +91,16 @@
                       "key": "description",
                       "type": "string",
                       "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    },
+                    {
+                      "key": "duration",
+                      "type": "integer",
+                      "value": "0"
+                    },
+                    {
+                      "key": "location",
+                      "type": "string",
+                      "value": "dedd"
                     }
                   ],
                   "outputParams": []
