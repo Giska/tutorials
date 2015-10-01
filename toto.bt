@@ -16,7 +16,13 @@
         },
         "properties": {
           "name": "AddEvent",
-          "inputParams": [],
+          "inputParams": [
+            {
+              "key": "description",
+              "type": "string",
+              "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ],
           "outputParams": []
         },
         "children": [],
