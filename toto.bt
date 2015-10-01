@@ -28,7 +28,13 @@
               "value": "test location"
             }
           ],
-          "outputParams": []
+          "outputParams": [
+            {
+              "key": "destination",
+              "type": "entityKnowledge",
+              "value": "dededede"
+            }
+          ]
         },
         "children": [],
         "id": "12d9b17a-84ad-4558-90b0-7445fc8a707d",
