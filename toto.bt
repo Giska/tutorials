@@ -23,7 +23,13 @@
             },
             "properties": {
               "name": "UpdateEvent",
-              "inputParams": [],
+              "inputParams": [
+                {
+                  "key": "description",
+                  "type": "string",
+                  "value": "desc"
+                }
+              ],
               "outputParams": []
             },
             "children": [],
