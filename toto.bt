@@ -14,20 +14,165 @@
         "metadata": {
           "label": ""
         },
-        "properties": {
-          "name": "AddEvent",
-          "inputParams": [
-            {
-              "key": "description",
-              "type": "string",
-              "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            }
-          ],
-          "outputParams": []
-        },
-        "children": [],
-        "id": "17ebace3-a35f-4336-89db-903be32e8fc0",
-        "type": "action"
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "UpdateEvent",
+              "inputParams": [],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "b71ca0f2-5e09-4103-827e-87c9e16cee52",
+            "type": "action"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "RemoveEvent",
+              "inputParams": [],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "2cfc4771-7438-44c7-a645-9956009fa7d6",
+            "type": "action"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "GetDayEvents",
+              "inputParams": [],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "b5f203ee-7a40-4398-ac5b-f6b6648de19c",
+            "type": "action"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "SendMail",
+              "inputParams": [],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "19157002-c0a6-4323-a9e1-2b00a288fa2b",
+            "type": "action"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "AddEvent",
+                  "inputParams": [
+                    {
+                      "key": "description",
+                      "type": "string",
+                      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                    }
+                  ],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "17ebace3-a35f-4336-89db-903be32e8fc0",
+                "type": "action"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {},
+                "children": [
+                  {
+                    "activated": true,
+                    "metadata": {
+                      "label": ""
+                    },
+                    "properties": {
+                      "name": "GetDirections",
+                      "inputParams": [],
+                      "outputParams": []
+                    },
+                    "children": [],
+                    "id": "0e0d313b-cabc-488a-839f-7129231f018e",
+                    "type": "action"
+                  },
+                  {
+                    "activated": true,
+                    "metadata": {
+                      "label": ""
+                    },
+                    "properties": {
+                      "name": "GetNextEvent",
+                      "inputParams": [],
+                      "outputParams": []
+                    },
+                    "children": [],
+                    "id": "4a80a4ad-41db-4429-a1be-8113f09fc8e1",
+                    "type": "action"
+                  }
+                ],
+                "id": "0386fded-3397-475d-9303-f15ed562118e",
+                "type": "sequence"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "CreateCalendar",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "280b7c24-4138-4611-904b-83c4ef3af1c6",
+                "type": "action"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "DeleteCalendar",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "81e19fad-7d9c-4c4c-806b-a24ae3851b21",
+                "type": "action"
+              }
+            ],
+            "id": "b6af4cc1-6b01-472b-a1ac-23fe425c4806",
+            "type": "sequence"
+          }
+        ],
+        "id": "1d4917d5-b5f3-4a87-990c-ffd8430ac136",
+        "type": "sequence"
       }
     ],
     "id": "a2d95396-657a-4233-b504-062a27bd2550"
