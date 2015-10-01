@@ -25,9 +25,24 @@
               "name": "UpdateEvent",
               "inputParams": [
                 {
-                  "key": "description",
+                  "key": "dateTime",
+                  "type": "integer",
+                  "value": "84543456854"
+                },
+                {
+                  "key": "userId",
                   "type": "string",
-                  "value": "desc"
+                  "value": "dede"
+                },
+                {
+                  "key": "calendarId",
+                  "type": "string",
+                  "value": "dev"
+                },
+                {
+                  "key": "summary",
+                  "type": "string",
+                  "value": "q"
                 }
               ],
               "outputParams": []
