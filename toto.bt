@@ -8,7 +8,33 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "name": "addEvent",
+          "inputParams": [
+            {
+              "key": "summary",
+              "type": "string",
+              "value": "test"
+            },
+            {
+              "key": "location",
+              "type": "string",
+              "value": "test location"
+            }
+          ],
+          "outputParams": []
+        },
+        "children": [],
+        "id": "12d9b17a-84ad-4558-90b0-7445fc8a707d",
+        "type": "action"
+      }
+    ],
     "id": "a2d95396-657a-4233-b504-062a27bd2550"
   }
 ]
