@@ -8,7 +8,22 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "name": "AddEvent",
+          "inputParams": [],
+          "outputParams": []
+        },
+        "children": [],
+        "id": "17ebace3-a35f-4336-89db-903be32e8fc0",
+        "type": "action"
+      }
+    ],
     "id": "a2d95396-657a-4233-b504-062a27bd2550"
   }
 ]
