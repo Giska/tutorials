@@ -35,11 +35,6 @@
               "key": "location",
               "type": "entityKnowledge",
               "value": "locationInKB"
-            },
-            {
-              "key": "calendarId",
-              "type": "string",
-              "value": "primary"
             }
           ],
           "outputParams": []
