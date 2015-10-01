@@ -26,6 +26,11 @@
               "key": "location",
               "type": "string",
               "value": "test location"
+            },
+            {
+              "key": "calendarId",
+              "type": "string",
+              "value": "primary"
             }
           ],
           "outputParams": []
