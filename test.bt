@@ -8,7 +8,24 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "behavior": {
+            "type": "uriPath",
+            "value": ""
+          },
+          "inputParams": []
+        },
+        "children": [],
+        "id": "c5e29c9b-e602-4974-82c8-993e207de642",
+        "type": "embedded"
+      }
+    ],
     "id": "7bd8dba9-7d5f-4fae-9265-c2c0d8a5f01d"
   }
 ]
