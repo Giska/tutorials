@@ -33,6 +33,11 @@
                   "key": "location",
                   "type": "string",
                   "value": "xdxdx"
+                },
+                {
+                  "key": "timeZone",
+                  "type": "string",
+                  "value": "Europe/London"
                 }
               ],
               "outputParams": [
