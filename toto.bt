@@ -23,13 +23,7 @@
             },
             "properties": {
               "name": "google/calendar/AddEvent",
-              "inputParams": [
-                {
-                  "key": "duration",
-                  "type": "integer",
-                  "value": "3600"
-                }
-              ],
+              "inputParams": [],
               "outputParams": []
             },
             "children": [],
