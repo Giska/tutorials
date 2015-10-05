@@ -24,7 +24,13 @@
             "properties": {
               "name": "google/calendar/AddEvent",
               "inputParams": [],
-              "outputParams": []
+              "outputParams": [
+                {
+                  "key": "destination",
+                  "type": "entityKnowledge",
+                  "value": ""
+                }
+              ]
             },
             "children": [],
             "id": "17d3b5f6-f274-4ec6-9df9-97b3775cb4ac",
