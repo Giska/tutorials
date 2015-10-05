@@ -184,7 +184,18 @@
                 },
                 "properties": {
                   "name": "google/maps/GetDirections",
-                  "inputParams": [],
+                  "inputParams": [
+                    {
+                      "key": "destination",
+                      "type": "string",
+                      "value": ""
+                    },
+                    {
+                      "key": "mode",
+                      "type": "string",
+                      "value": ""
+                    }
+                  ],
                   "outputParams": []
                 },
                 "children": [],
