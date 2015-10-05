@@ -174,6 +174,20 @@
                       "label": ""
                     },
                     "properties": {
+                      "name": "CopyEvent",
+                      "inputParams": [],
+                      "outputParams": []
+                    },
+                    "children": [],
+                    "id": "6ed6b342-3d51-49d4-9bba-ae1441168182",
+                    "type": "action"
+                  },
+                  {
+                    "activated": true,
+                    "metadata": {
+                      "label": ""
+                    },
+                    "properties": {
                       "name": "GetDirections",
                       "inputParams": [],
                       "outputParams": []
