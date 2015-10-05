@@ -28,6 +28,11 @@
                   "key": "duration",
                   "type": "integer",
                   "value": "3600"
+                },
+                {
+                  "key": "location",
+                  "type": "string",
+                  "value": ""
                 }
               ],
               "outputParams": []
