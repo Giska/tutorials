@@ -28,6 +28,11 @@
                   "key": "description",
                   "type": "string",
                   "value": "dededededede"
+                },
+                {
+                  "key": "location",
+                  "type": "string",
+                  "value": "xdxdx"
                 }
               ],
               "outputParams": [
