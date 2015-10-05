@@ -23,7 +23,13 @@
             },
             "properties": {
               "name": "google/calendar/AddEvent",
-              "inputParams": [],
+              "inputParams": [
+                {
+                  "key": "description",
+                  "type": "string",
+                  "value": "dededededede"
+                }
+              ],
               "outputParams": [
                 {
                   "key": "destination",
