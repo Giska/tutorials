@@ -183,6 +183,20 @@
                   "label": ""
                 },
                 "properties": {
+                  "name": "google/mail/SendEmail",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "c61d61c0-2cd2-4e4b-8080-69ac3d794781",
+                "type": "action"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
                   "name": "google/maps/GetDirections",
                   "inputParams": [
                     {
@@ -200,20 +214,6 @@
                 },
                 "children": [],
                 "id": "0ca16089-ab51-4c64-b248-0c64db1eb19a",
-                "type": "action"
-              },
-              {
-                "activated": true,
-                "metadata": {
-                  "label": ""
-                },
-                "properties": {
-                  "name": "google/mail/SendEmail",
-                  "inputParams": [],
-                  "outputParams": []
-                },
-                "children": [],
-                "id": "c61d61c0-2cd2-4e4b-8080-69ac3d794781",
                 "type": "action"
               }
             ],
