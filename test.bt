@@ -8,7 +8,51 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "op1": {
+                "type": "boolean",
+                "value": "false"
+              },
+              "op2": {
+                "type": "boolean",
+                "value": "true"
+              },
+              "op": "=="
+            },
+            "children": [],
+            "id": "bd8ff3f1-d03c-415e-ae95-0b59618d0794",
+            "type": "until"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "active": "false"
+            },
+            "children": [],
+            "id": "6d62069f-dfbc-4a8d-b1d3-613a1a56c8e1",
+            "type": "priority"
+          }
+        ],
+        "id": "3e5a808a-a00e-4ab2-9e5e-9b031807a7d5",
+        "type": "sequence"
+      }
+    ],
     "id": "0b26e80c-66c6-4502-aa3c-716385ea5ac6"
   }
 ]
