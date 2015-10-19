@@ -41,6 +41,16 @@
             "metadata": {
               "label": ""
             },
+            "properties": {},
+            "children": [],
+            "id": "1095754b-f632-47a0-ad85-aef3c2dc0040",
+            "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
             "properties": {
               "name": "google/calendar/AddEvent",
               "inputParams": [
