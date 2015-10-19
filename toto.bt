@@ -21,6 +21,16 @@
             "metadata": {
               "label": ""
             },
+            "properties": {},
+            "children": [],
+            "id": "1095754b-f632-47a0-ad85-aef3c2dc0040",
+            "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
             "properties": {
               "op1": {
                 "type": "boolean",
@@ -35,16 +45,6 @@
             "children": [],
             "id": "fb60cf14-69b1-4153-bff8-129dc2269db2",
             "type": "until"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {},
-            "children": [],
-            "id": "1095754b-f632-47a0-ad85-aef3c2dc0040",
-            "type": "sequence"
           },
           {
             "activated": true,
