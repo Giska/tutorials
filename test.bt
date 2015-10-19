@@ -15,6 +15,26 @@
           "label": ""
         },
         "properties": {
+          "op1": {
+            "type": "boolean",
+            "value": "false"
+          },
+          "op2": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op": "=="
+        },
+        "children": [],
+        "id": "7f9e7785-1240-47a9-973d-750ca60846ee",
+        "type": "until"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "statusCondition": "failsIfAnyFails",
           "retryPolicy": "propagateToRunning"
         },
@@ -49,26 +69,6 @@
         ],
         "id": "654a51e4-e5fc-4d62-98bd-1d0434ecd32f",
         "type": "parallel"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "op1": {
-            "type": "boolean",
-            "value": "false"
-          },
-          "op2": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op": "=="
-        },
-        "children": [],
-        "id": "7f9e7785-1240-47a9-973d-750ca60846ee",
-        "type": "until"
       },
       {
         "activated": true,
