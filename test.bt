@@ -18,8 +18,36 @@
           "statusCondition": "failsIfAnyFails",
           "retryPolicy": "propagateToRunning"
         },
-        "children": [],
-        "id": "b5144dca-796f-4b98-aac9-daf708f5416a",
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "behavior": {
+                    "type": "uriPath",
+                    "value": ""
+                  },
+                  "inputParams": []
+                },
+                "children": [],
+                "id": "a7c7c755-b256-4531-a323-4b05e4ad27a6",
+                "type": "embedded"
+              }
+            ],
+            "id": "705b00d3-53d4-41c0-9917-4b579aaf1288",
+            "type": "random"
+          }
+        ],
+        "id": "654a51e4-e5fc-4d62-98bd-1d0434ecd32f",
         "type": "parallel"
       },
       {
@@ -51,36 +79,8 @@
           "statusCondition": "failsIfAnyFails",
           "retryPolicy": "propagateToRunning"
         },
-        "children": [
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {},
-            "children": [
-              {
-                "activated": true,
-                "metadata": {
-                  "label": ""
-                },
-                "properties": {
-                  "behavior": {
-                    "type": "uriPath",
-                    "value": ""
-                  },
-                  "inputParams": []
-                },
-                "children": [],
-                "id": "a7c7c755-b256-4531-a323-4b05e4ad27a6",
-                "type": "embedded"
-              }
-            ],
-            "id": "705b00d3-53d4-41c0-9917-4b579aaf1288",
-            "type": "random"
-          }
-        ],
-        "id": "654a51e4-e5fc-4d62-98bd-1d0434ecd32f",
+        "children": [],
+        "id": "b5144dca-796f-4b98-aac9-daf708f5416a",
         "type": "parallel"
       }
     ],
