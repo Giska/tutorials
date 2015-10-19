@@ -32,6 +32,19 @@
               "label": ""
             },
             "properties": {
+              "statusCondition": "failsIfAnyFails",
+              "retryPolicy": "propagateToRunning"
+            },
+            "children": [],
+            "id": "cfd108bb-7509-4f90-b752-dd4d5abe22dd",
+            "type": "parallel"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
               "op1": {
                 "type": "boolean",
                 "value": "false"
@@ -45,19 +58,6 @@
             "children": [],
             "id": "fb60cf14-69b1-4153-bff8-129dc2269db2",
             "type": "until"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "statusCondition": "failsIfAnyFails",
-              "retryPolicy": "propagateToRunning"
-            },
-            "children": [],
-            "id": "cfd108bb-7509-4f90-b752-dd4d5abe22dd",
-            "type": "parallel"
           },
           {
             "activated": true,
