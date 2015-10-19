@@ -52,6 +52,22 @@
               "label": ""
             },
             "properties": {
+              "behavior": {
+                "type": "uriPath",
+                "value": ""
+              },
+              "inputParams": []
+            },
+            "children": [],
+            "id": "8ee0d0b2-cc21-4e37-b7e0-aa76524f8455",
+            "type": "embedded"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
               "statusCondition": "failsIfAnyFails",
               "retryPolicy": "propagateToRunning"
             },
