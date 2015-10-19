@@ -14,32 +14,6 @@
         "metadata": {
           "label": ""
         },
-        "properties": {},
-        "children": [],
-        "id": "705b00d3-53d4-41c0-9917-4b579aaf1288",
-        "type": "random"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "behavior": {
-            "type": "uriPath",
-            "value": ""
-          },
-          "inputParams": []
-        },
-        "children": [],
-        "id": "a7c7c755-b256-4531-a323-4b05e4ad27a6",
-        "type": "embedded"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
         "properties": {
           "op1": {
             "type": "boolean",
@@ -54,6 +28,33 @@
         "children": [],
         "id": "7f9e7785-1240-47a9-973d-750ca60846ee",
         "type": "until"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "behavior": {
+                "type": "uriPath",
+                "value": ""
+              },
+              "inputParams": []
+            },
+            "children": [],
+            "id": "a7c7c755-b256-4531-a323-4b05e4ad27a6",
+            "type": "embedded"
+          }
+        ],
+        "id": "705b00d3-53d4-41c0-9917-4b579aaf1288",
+        "type": "random"
       }
     ],
     "id": "f0166ee9-4fc5-466b-8ad2-089724e6ea54"
