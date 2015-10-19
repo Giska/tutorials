@@ -52,6 +52,19 @@
               "label": ""
             },
             "properties": {
+              "statusCondition": "failsIfAnyFails",
+              "retryPolicy": "propagateToRunning"
+            },
+            "children": [],
+            "id": "cfd108bb-7509-4f90-b752-dd4d5abe22dd",
+            "type": "parallel"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
               "name": "google/calendar/AddEvent",
               "inputParams": [
                 {
