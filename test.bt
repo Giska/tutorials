@@ -32,19 +32,20 @@
               },
               "op": "=="
             },
-            "children": [],
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {},
+                "children": [],
+                "id": "fde96788-da24-4d95-826e-6ea9b344faa1",
+                "type": "sequence"
+              }
+            ],
             "id": "bd8ff3f1-d03c-415e-ae95-0b59618d0794",
             "type": "until"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {},
-            "children": [],
-            "id": "fde96788-da24-4d95-826e-6ea9b344faa1",
-            "type": "sequence"
           },
           {
             "activated": true,
