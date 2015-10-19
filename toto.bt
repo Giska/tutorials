@@ -22,6 +22,26 @@
               "label": ""
             },
             "properties": {
+              "op1": {
+                "type": "boolean",
+                "value": "false"
+              },
+              "op2": {
+                "type": "boolean",
+                "value": "true"
+              },
+              "op": "=="
+            },
+            "children": [],
+            "id": "fb60cf14-69b1-4153-bff8-129dc2269db2",
+            "type": "until"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
               "name": "google/calendar/AddEvent",
               "inputParams": [
                 {
