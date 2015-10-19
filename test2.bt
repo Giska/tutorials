@@ -15,6 +15,22 @@
           "label": ""
         },
         "properties": {
+          "behavior": {
+            "type": "uriPath",
+            "value": ""
+          },
+          "inputParams": []
+        },
+        "children": [],
+        "id": "a7c7c755-b256-4531-a323-4b05e4ad27a6",
+        "type": "embedded"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "op1": {
             "type": "boolean",
             "value": "false"
