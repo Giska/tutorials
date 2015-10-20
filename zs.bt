@@ -15,6 +15,22 @@
           "label": ""
         },
         "properties": {
+          "destination": "",
+          "op": {
+            "type": "string",
+            "value": ""
+          }
+        },
+        "children": [],
+        "id": "e0bf2623-fa4f-465c-8873-650ce139e113",
+        "type": "set"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "op1": {
             "type": "boolean",
             "value": "false"
