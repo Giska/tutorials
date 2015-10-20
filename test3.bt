@@ -14,6 +14,16 @@
         "metadata": {
           "label": ""
         },
+        "properties": {},
+        "children": [],
+        "id": "4c404f1c-6d84-43bb-9c61-dacffe85c3b5",
+        "type": "sequence"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
         "properties": {
           "active": "false"
         },
