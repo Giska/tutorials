@@ -17,6 +17,26 @@
         "properties": {
           "op1": {
             "type": "boolean",
+            "value": "true"
+          },
+          "op2": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op": "=="
+        },
+        "children": [],
+        "id": "54c8815d-44a3-4275-9a03-f3f6e17765b8",
+        "type": "condition"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "op1": {
+            "type": "boolean",
             "value": "false"
           },
           "op2": {
