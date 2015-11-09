@@ -60,58 +60,6 @@
         ],
         "id": "3c2ffb7f-c05c-4e01-a03c-05e63bdb9797",
         "type": "sequence"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {},
-        "children": [
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "name": "",
-              "inputParams": [],
-              "outputParams": []
-            },
-            "children": [],
-            "id": "4ca2fc3b-7839-4539-8fa7-4e8c083a80c7",
-            "type": "action"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {},
-            "children": [
-              {
-                "activated": true,
-                "metadata": {
-                  "label": ""
-                },
-                "properties": {
-                  "destination": "",
-                  "op": {
-                    "type": "string",
-                    "value": ""
-                  }
-                },
-                "children": [],
-                "id": "113621ad-3ed0-4e21-b8a8-4ca278943f01",
-                "type": "set"
-              }
-            ],
-            "id": "77df91cc-90e7-48e3-abe2-0db1ce31f946",
-            "type": "sequence"
-          }
-        ],
-        "id": "57ad9cbe-fe1a-4634-8a1a-59cd2da937ff",
-        "type": "sequence"
       }
     ],
     "id": "62296acd-9038-4631-978d-0f2c876ec2da"
