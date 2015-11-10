@@ -14,10 +14,14 @@
         "metadata": {
           "label": ""
         },
-        "properties": {},
+        "properties": {
+          "name": "random",
+          "inputParams": [],
+          "outputParams": []
+        },
         "children": [],
-        "id": "d0147add-14e6-4181-a3d9-d50d0e84685b",
-        "type": "sequence"
+        "id": "66d3e152-ec2f-4727-849c-2408e6158a09",
+        "type": "action"
       }
     ],
     "id": "1ffa7892-5f77-497e-9d01-283fcec81390"
