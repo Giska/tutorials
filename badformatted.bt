@@ -26,29 +26,30 @@
               "inputParams": [],
               "outputParams": []
             },
-            "children": [],
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "op1": {
+                    "type": "boolean",
+                    "value": "true"
+                  },
+                  "op2": {
+                    "type": "boolean",
+                    "value": "true"
+                  },
+                  "op": "=="
+                },
+                "children": [],
+                "id": "a9f85d0a-f48f-45e3-bd64-da04c027eb8f",
+                "type": "condition"
+              }
+            ],
             "id": "20841c5f-1de1-465a-9c52-d235fcb1ef28",
             "type": "action"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "op1": {
-                "type": "boolean",
-                "value": "true"
-              },
-              "op2": {
-                "type": "boolean",
-                "value": "true"
-              },
-              "op": "=="
-            },
-            "children": [],
-            "id": "a9f85d0a-f48f-45e3-bd64-da04c027eb8f",
-            "type": "condition"
           }
         ],
         "id": "8c121c8e-5ecb-463c-928c-70d3071185a2",
