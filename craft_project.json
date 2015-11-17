@@ -3,7 +3,7 @@
     "version": "0.0.1"
   },
   {
-    "homeUrl": "myHomeUrl.com",
+    "homeUrl": "myHomeUrl.com2",
     "description": "description de stanley Kubik avec markdown **cool** !",
     "actionLibraries": {
       "google": true
