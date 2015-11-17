@@ -14,6 +14,16 @@
         "metadata": {
           "label": ""
         },
+        "properties": {},
+        "children": [],
+        "id": "268a9b88-868c-422c-8832-80ea6f923a8d",
+        "type": "random"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
         "properties": {
           "behavior": {
             "type": "uriPath",
