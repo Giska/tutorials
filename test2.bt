@@ -15,6 +15,26 @@
           "label": ""
         },
         "properties": {
+          "op1": {
+            "type": "boolean",
+            "value": "false"
+          },
+          "op2": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op": "=="
+        },
+        "children": [],
+        "id": "bf6ea9fb-7bb1-4c0b-9076-58c254caa8a9",
+        "type": "until"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "statusCondition": "failsIfAnyFails",
           "retryPolicy": "propagateToRunning"
         },
