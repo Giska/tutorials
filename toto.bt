@@ -255,6 +255,16 @@
             ],
             "id": "f921a9ee-18e1-47b3-92e5-a705afa0a862",
             "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [],
+            "id": "16928dc1-da7f-4a2c-a586-0ef183e78f9d",
+            "type": "not"
           }
         ],
         "id": "36596432-c283-4753-90cf-5811a42cfe90",
