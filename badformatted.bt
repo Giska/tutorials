@@ -1,1 +1,3 @@
-test this is toto
+{
+  "test": "this is toto"
+}
