@@ -32,6 +32,16 @@
               },
               "op": "=="
             },
+            "children": [],
+            "id": "1b32433d-6c20-43d3-a363-27a13d748932",
+            "type": "condition"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
             "children": [
               {
                 "activated": true,
@@ -50,16 +60,6 @@
                 "type": "embedded"
               }
             ],
-            "id": "1b32433d-6c20-43d3-a363-27a13d748932",
-            "type": "condition"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {},
-            "children": [],
             "id": "4c404f1c-6d84-43bb-9c61-dacffe85c3b5",
             "type": "sequence"
           },
@@ -69,7 +69,22 @@
               "label": ""
             },
             "properties": {},
-            "children": [],
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "7dd857c3-5241-4408-98e1-8a3652ed80ad",
+                "type": "action"
+              }
+            ],
             "id": "7af13109-efbd-4d30-870f-ab0859e9764e",
             "type": "success"
           },
