@@ -87,18 +87,6 @@
             ],
             "id": "7af13109-efbd-4d30-870f-ab0859e9764e",
             "type": "success"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "active": "false"
-            },
-            "children": [],
-            "id": "7f94ccc9-578f-4dc8-b76c-c17dfc8b9d40",
-            "type": "priority"
           }
         ],
         "id": "268a9b88-868c-422c-8832-80ea6f923a8d",
