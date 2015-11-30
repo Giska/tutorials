@@ -15,6 +15,18 @@
           "label": ""
         },
         "properties": {
+          "active": "false"
+        },
+        "children": [],
+        "id": "baafe867-28ab-46ed-8b37-e94d972b093f",
+        "type": "priority"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "statusCondition": "failsIfAnyFails",
           "retryPolicy": "propagateToRunning"
         },
