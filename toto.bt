@@ -124,6 +124,16 @@
                   "label": ""
                 },
                 "properties": {},
+                "children": [],
+                "id": "2a853745-c34d-404c-bc76-983422757c6a",
+                "type": "sequence"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {},
                 "children": [
                   {
                     "activated": true,
