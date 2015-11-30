@@ -18,6 +18,18 @@
           "active": "false"
         },
         "children": [],
+        "id": "7599029a-98e0-4109-9aef-33551d69a974",
+        "type": "priority"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "active": "false"
+        },
+        "children": [],
         "id": "baafe867-28ab-46ed-8b37-e94d972b093f",
         "type": "priority"
       },
