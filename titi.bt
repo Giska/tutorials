@@ -14,6 +14,16 @@
         "metadata": {
           "label": ""
         },
+        "properties": {},
+        "children": [],
+        "id": "17d68164-f60d-44e2-ab8f-dab36729b186",
+        "type": "random"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
         "properties": {
           "statusCondition": "failsIfAnyFails",
           "retryPolicy": "propagateToRunning"
