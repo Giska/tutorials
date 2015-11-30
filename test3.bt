@@ -32,7 +32,28 @@
               },
               "op": "=="
             },
-            "children": [],
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "op1": {
+                    "type": "boolean",
+                    "value": "false"
+                  },
+                  "op2": {
+                    "type": "boolean",
+                    "value": "true"
+                  },
+                  "op": "=="
+                },
+                "children": [],
+                "id": "981c7c71-0d86-49d6-9df0-3ea0c591dec1",
+                "type": "until"
+              }
+            ],
             "id": "1b32433d-6c20-43d3-a363-27a13d748932",
             "type": "condition"
           },
