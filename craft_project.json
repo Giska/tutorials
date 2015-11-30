@@ -4,7 +4,7 @@
   },
   {
     "homeUrl": "myHomeUrl.com2",
-    "description": "description de stanley Kubik avec markdown **cool** !",
+    "description": "description de stanley Kubik avec markdown **cool** ! __test__",
     "actionLibraries": {
       "google": true
     }
