@@ -22,6 +22,20 @@
               "label": ""
             },
             "properties": {
+              "name": "",
+              "inputParams": [],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "c77807cb-9d70-47d0-b8d2-051047f18f08",
+            "type": "action"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
               "op1": {
                 "type": "boolean",
                 "value": "true"
