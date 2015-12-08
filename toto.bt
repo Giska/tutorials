@@ -16,8 +16,25 @@
         },
         "properties": {
           "name": "",
-          "inputParams": [],
-          "outputParams": []
+          "inputParams": [
+            {
+              "key": "frfr",
+              "type": "entityKnowledge",
+              "value": "frfr"
+            },
+            {
+              "key": "ffff",
+              "type": "boolean",
+              "value": "false"
+            }
+          ],
+          "outputParams": [
+            {
+              "key": "bbbb",
+              "type": "entityKnowledge",
+              "value": "bbbbb"
+            }
+          ]
         },
         "children": [],
         "id": "307e1d93-673f-4a46-9de6-0ed36923fdfc",
