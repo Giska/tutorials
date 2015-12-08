@@ -12,6 +12,20 @@
       {
         "activated": true,
         "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "name": "",
+          "inputParams": [],
+          "outputParams": []
+        },
+        "children": [],
+        "id": "307e1d93-673f-4a46-9de6-0ed36923fdfc",
+        "type": "action"
+      },
+      {
+        "activated": true,
+        "metadata": {
           "label": "lololololololo"
         },
         "properties": {},
