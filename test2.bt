@@ -28,6 +28,22 @@
           "label": ""
         },
         "properties": {
+          "destination": "",
+          "op": {
+            "type": "string",
+            "value": ""
+          }
+        },
+        "children": [],
+        "id": "48084b04-477c-4b31-b731-00722c9d88b9",
+        "type": "set"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
           "op1": {
             "type": "boolean",
             "value": "false"
@@ -41,22 +57,6 @@
         "children": [],
         "id": "2a8a2d41-2afd-4b26-ac61-5cf31b03b881",
         "type": "until"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "destination": "",
-          "op": {
-            "type": "string",
-            "value": ""
-          }
-        },
-        "children": [],
-        "id": "48084b04-477c-4b31-b731-00722c9d88b9",
-        "type": "set"
       },
       {
         "activated": true,
