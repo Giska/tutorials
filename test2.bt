@@ -63,9 +63,32 @@
         "metadata": {
           "label": ""
         },
+        "properties": {
+          "active": "false"
+        },
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [],
+            "id": "36b92c4f-2fa2-4d2a-83b2-5f6865509e54",
+            "type": "sequence"
+          }
+        ],
+        "id": "b5d820e2-3b38-4f41-8f26-307821400ea8",
+        "type": "priority"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
         "properties": {},
         "children": [],
-        "id": "36b92c4f-2fa2-4d2a-83b2-5f6865509e54",
+        "id": "93610140-1ee0-4acc-8483-6bcdd875485f",
         "type": "sequence"
       }
     ],
