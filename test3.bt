@@ -63,6 +63,16 @@
               "label": ""
             },
             "properties": {},
+            "children": [],
+            "id": "ee1ab022-5eb2-4239-8643-61e5cc964979",
+            "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
             "children": [
               {
                 "activated": true,
