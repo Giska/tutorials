@@ -59,7 +59,28 @@
           "label": ""
         },
         "properties": {},
-        "children": [],
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "op1": {
+                "type": "boolean",
+                "value": "false"
+              },
+              "op2": {
+                "type": "boolean",
+                "value": "true"
+              },
+              "op": "=="
+            },
+            "children": [],
+            "id": "49f94541-7421-403b-b492-6aa3a0285ca4",
+            "type": "until"
+          }
+        ],
         "id": "93610140-1ee0-4acc-8483-6bcdd875485f",
         "type": "sequence"
       },
