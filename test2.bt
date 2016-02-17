@@ -43,20 +43,31 @@
         "metadata": {
           "label": ""
         },
-        "properties": {
-          "op1": {
-            "type": "boolean",
-            "value": "false"
-          },
-          "op2": {
-            "type": "boolean",
-            "value": "true"
-          },
-          "op": "=="
-        },
-        "children": [],
-        "id": "2a8a2d41-2afd-4b26-ac61-5cf31b03b881",
-        "type": "until"
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "op1": {
+                "type": "boolean",
+                "value": "false"
+              },
+              "op2": {
+                "type": "boolean",
+                "value": "true"
+              },
+              "op": "=="
+            },
+            "children": [],
+            "id": "2a8a2d41-2afd-4b26-ac61-5cf31b03b881",
+            "type": "until"
+          }
+        ],
+        "id": "cbcb636b-b03b-43e9-813c-31480048dc7d",
+        "type": "random"
       },
       {
         "activated": true,
