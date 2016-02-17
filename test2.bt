@@ -79,6 +79,16 @@
             "children": [],
             "id": "49f94541-7421-403b-b492-6aa3a0285ca4",
             "type": "until"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [],
+            "id": "1c059056-b009-4bf3-acc6-d9a9b5a66a3e",
+            "type": "not"
           }
         ],
         "id": "93610140-1ee0-4acc-8483-6bcdd875485f",
