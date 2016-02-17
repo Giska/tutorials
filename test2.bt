@@ -62,6 +62,22 @@
         "children": [],
         "id": "93610140-1ee0-4acc-8483-6bcdd875485f",
         "type": "sequence"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "behavior": {
+            "type": "uriPath",
+            "value": ""
+          },
+          "inputParams": []
+        },
+        "children": [],
+        "id": "1b0c1860-0ce9-4872-bf06-9c2462af8842",
+        "type": "embedded"
       }
     ],
     "id": "521aaaed-97c8-4fe8-8a22-72198b053038"
