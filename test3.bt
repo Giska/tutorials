@@ -99,6 +99,19 @@
             "metadata": {
               "label": ""
             },
+            "properties": {
+              "statusCondition": "failsIfAnyFails",
+              "retryPolicy": "propagateToRunning"
+            },
+            "children": [],
+            "id": "867645ca-1d38-4ffd-a8ad-1d31bb63e921",
+            "type": "parallel"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
             "properties": {},
             "children": [
               {
