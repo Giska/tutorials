@@ -27,22 +27,6 @@
         "metadata": {
           "label": ""
         },
-        "properties": {
-          "destination": "",
-          "op": {
-            "type": "string",
-            "value": ""
-          }
-        },
-        "children": [],
-        "id": "48084b04-477c-4b31-b731-00722c9d88b9",
-        "type": "set"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
         "properties": {},
         "children": [
           {
