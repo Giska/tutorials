@@ -135,6 +135,26 @@
         ],
         "id": "268a9b88-868c-422c-8832-80ea6f923a8d",
         "type": "random"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "op1": {
+            "type": "boolean",
+            "value": "false"
+          },
+          "op2": {
+            "type": "boolean",
+            "value": "true"
+          },
+          "op": "=="
+        },
+        "children": [],
+        "id": "bf15d265-735c-4a21-ae45-9fcc317e3856",
+        "type": "until"
       }
     ],
     "id": "5c9f6bf5-7e52-4ccb-8838-0586d7402dc9"
